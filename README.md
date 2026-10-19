@@ -9,8 +9,8 @@
 ![C](https://img.shields.io/badge/-C-%23E44D27?logo=c&logoColor=ffffff&color=blue)
 ![Python](https://img.shields.io/badge/-Python-%23E44D27?logo=python&logoColor=ffffff&color=blue)
 
-![Linux](https://img.shields.io/badge/-Linux-%23E44D27?logo=linux&color=white)
-![Inkscape](https://img.shields.io/badge/-Inkscape-%23E44D27?logo=inkscape&logoColor=ffffff&color=blue)
-![GIMP](https://img.shields.io/badge/-GIMP-%23E44D27?logo=gimp&logoColor=ffffff&color=blue)
-![Kdenlive](https://img.shields.io/badge/-Kdenlive-%23E44D27?logo=kdenlive&logoColor=ffffff&color=blue)
-![Photoshop](https://img.shields.io/badge/-Photoshop-%23E44D27?logo=python&logoColor=ffffff&color=blue)
+![Linux](https://img.shields.io/badge/-Linux-%23E44D27?logo=linux&color=white&logoColor=black)
+![Inkscape](https://img.shields.io/badge/-Inkscape-%23E44D27?logo=inkscape&logoColor=black&color=white)
+![GIMP](https://img.shields.io/badge/-GIMP-%23E44D27?logo=gimp&logoColor=black&color=white)
+![Kdenlive](https://img.shields.io/badge/-Kdenlive-%23E44D27?logo=kdenlive&logoColor=orange&color=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-%23E44D27?logo=python&logoColor=blue&color=black)
