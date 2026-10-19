@@ -2,7 +2,8 @@
 Меня зовут Максим.
 
 ## Стек
-Технологии
+Языки
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -10,6 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=blue&color=%23FFCE5A)
 
 Инструменты
+
 ![Linux](https://img.shields.io/badge/-Linux-%23E44D27?style=flat-square&logo=linux&color=white&logoColor=black)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-%23E44D27?style=flat-square&logo=inkscape&logoColor=black&color=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-%23E44D27?style=flat-square&logo=gimp&logoColor=black&color=white)
